@@ -17,6 +17,8 @@ import seleniumFramework.testComponents.BaseTest;
 import seleniumFramework.testComponents.Retry;
 
 public class SubmitOrderTest extends BaseTest {
+
+//Adding multiple items to Cart 
 	
 	//String countryName = "India";
 	
