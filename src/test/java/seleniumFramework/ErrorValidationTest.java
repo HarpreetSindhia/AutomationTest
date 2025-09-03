@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import seleniumFramework.testComponents.BaseTest;
 
-//Negative Scenario
+//Negative Scenario implementation
 
 public class ErrorValidationTest extends BaseTest {
 
