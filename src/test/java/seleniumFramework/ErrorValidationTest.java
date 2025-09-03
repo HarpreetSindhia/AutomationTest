@@ -5,6 +5,8 @@ import org.testng.annotations.Test;
 
 import seleniumFramework.testComponents.BaseTest;
 
+//Negative Scenario
+
 public class ErrorValidationTest extends BaseTest {
 
 	@Test(groups= {"ErrorHandling"})
