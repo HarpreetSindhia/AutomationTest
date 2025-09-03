@@ -6,6 +6,8 @@ import org.testng.annotations.Test;
 import seleniumFramework.PageObjects.ProductCataloguePage;
 import seleniumFramework.testComponents.BaseTest;
 
+//Search keyword implemented
+
 public class SearchProductTest extends BaseTest {
 
 	@Test
