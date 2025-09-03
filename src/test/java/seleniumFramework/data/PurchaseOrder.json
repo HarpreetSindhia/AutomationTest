@@ -1,0 +1,19 @@
+[
+
+{
+    "uEmail" : "happy@gmail.com",
+    "uPassword" : "happy123",
+    "accessories" : ["ZARA COAT 3" , "ADIDAS ORIGINAL" , "IPHONE 13 PRO"],
+    "country" : "Ind",
+    "countryName" : "India"
+},
+{
+    "uEmail" : "harry@gmail.com",
+    "uPassword" : "happy123",
+    "accessories" : ["ADIDAS ORIGINAL","IPHONE 13 PRO" , "ZARA COAT 3"],
+    "country" : "Bah",
+    "countryName" : "Bahrain"
+}
+
+
+]
